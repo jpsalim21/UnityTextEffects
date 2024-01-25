@@ -8,6 +8,7 @@ Use <> com texto dentro e um > para finalizar o trecho com efeito. Lista de efei
 <s> <sw> <sl> = s faz o texto inteiro vibrar. sw faz palavras separadas vibrarem diferente. sl faz letras vibrarem diferente.
 <w> = efeito de onda no texto.
 <rainbow> = efeito de arco-íris.
+<wait> = as letras aparecem mais devagar, para dar ênfase.
 
 Exemplo de texto:
 Apenas como <w>teste>, vou fazer muita coisa <s>estranha>! Tipo colocar esse texto <rainbow>colorido>
@@ -28,6 +29,7 @@ Use <> with the effect name inside and an > to end the effect. Effect list:
 <s> <sw> <sl> = s make all the text shake. sw make words shake. sl make every letter shake.
 <w> = make the text wooble.
 <rainbow> = rainbow effect.
+<wait> = letters appear slowly.
 
 Example:
 Just for the <w>test>, gonna write something <s>strange>! Like making this text <rainbow>colorful>.
