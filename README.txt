@@ -1,6 +1,7 @@
 Olá, sou João Pedro Miranda Salim. Hoje é dia 24/12/2023.
-Ao longo do ano, tentei desenvolver um meio mais fácil de adicionar personalidade ao texto dos meus jogos, sem a dublagem.
+Ao longo do ano, tentei desenvolver um meio mais fácil de adicionar personalidade ao texto dos meus jogos.
 O resultado é esse.
+ALERTA: É necessário usar o TextMeshPro!!!!!!!!
 Enfim, um pequeno tutorial de como usar:
 
 Use <> com texto dentro e um > para finalizar o trecho com efeito. Lista de efeitos:
@@ -20,8 +21,9 @@ Essa última propriedade pode causar problemas com os caracteres < e >. Por isso
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hello, I'm João Pedro Miranda Salim. Today's 12/24/2023
-Among this year, I tried to develop an easier way to add personality into text in my games, without dubbing.
+Among this year, I tried to develop an easier way to add personality into text in my games.
 This is the result.
+Alert: TextMeshPro is necessary!!!!!!!!!!
 So, there goes a little tutorial:
 
 Use <> with the effect name inside and an > to end the effect. Effect list:
